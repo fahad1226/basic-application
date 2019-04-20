@@ -1,0 +1,18 @@
+
+.content-section {
+  background: #ffffff;
+  padding: 10px 20px;
+  border: 2px solid #dddddd;
+  border-radius: 10px;
+  margin-bottom: 20px;
+
+}
+h1, h2, h3, h4, h5, h6 {
+  color: #444444;
+}
+
+.article-img {
+  height: 65px;
+  width: 65px;
+  margin-right: 16px;
+}
